@@ -1,4 +1,4 @@
-# preyecto-6
+# proyecto-6
 Lizander Cross 2021-1754
 
 # 🚀 Servidor Web Nginx con Docker Compose
@@ -22,6 +22,7 @@ El servidor sirve un archivo `index.html` ubicado en un volumen montado desde el
 ---
 
 ## 🧱 Estructura del Proyecto
+
 nginx-practica/
 │
 ├── docker-compose.yml # Configuración del servicio Nginx
